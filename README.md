@@ -3,11 +3,10 @@
 #### The purpose of this analysis is to work with machine learning models and test them to see which one(s) work very well to predict credit card risk. The credit card credit dataset will be based from the LendingClub, a peer-to-peer lending services company.
 
 ## Results of the Machine Learning Models:
-### Naive Random Oversampling:
+### Random Oversampler:
 - Its balanced accuracy score: 64%
 - High Risk Precision is of 1% and High Rish Recall score is 66%.
-<img width="711" alt="Naive Random Oversampling" src="https://user-images.githubusercontent.com/86431959/138628690-fcbf9df1-91b7-4198-9c0b-64bd9195deb6.png">
-
+<img width="711" alt="Random Oversampler" src="https://user-images.githubusercontent.com/86431959/138631138-d7b1bd03-6039-40ea-9d5f-1f0e416dde80.png">
 
 ### SMOTE: 
 - Its balanced accuracy score: 66%
